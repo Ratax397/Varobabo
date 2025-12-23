@@ -1,5 +1,7 @@
 # Varobabo — E‑commerce App (Next.js)
 
+🌐 **[View Live Demo](https://varobabo-oeob.vercel.app/)**
+
 Short, modern e‑commerce web app with a buyer storefront and a simple seller portal. Built on Next.js App Router with Clerk authentication, MongoDB (Mongoose), Cloudinary for media, and Inngest for event-driven workflows.
 
 ## Features
@@ -11,6 +13,7 @@ Short, modern e‑commerce web app with a buyer storefront and a simple seller p
 - **Orders**: Buyers can view their orders; sellers can view all orders.
 - **Event Processing**: Inngest syncs Clerk users to DB and batches order creation events.
 - **UI/UX**: Responsive Tailwind CSS layout with reusable components.
+- **🌐 [Live Demo](https://varobabo-oeob.vercel.app/)**
 
 ## Tech Stack
 - Next.js (App Router), React
